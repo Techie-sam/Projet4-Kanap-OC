@@ -3,6 +3,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+## ⚠️ Note Importante
+
+Ce projet nécessite un backend Node.js pour fonctionner. GitHub Pages ne permettant pas l'hébergement de serveurs Node.js, **le site ne sera pas fonctionnel en ligne**. Pour tester l'application, vous devez :
+
+1. Cloner le repository
+2. Installer les dépendances
+3. Lancer le serveur backend localement
+
+Le frontend seul ne peut pas afficher les produits ni gérer les commandes sans le backend.
+
 ## 📝 Description
 
 Kanap est une plateforme e-commerce spécialisée dans la vente de canapés en ligne. Ce projet fait partie du parcours Développeur Web d'OpenClassrooms et représente une application full-stack avec une interface dynamique.
