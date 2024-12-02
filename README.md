@@ -5,7 +5,7 @@
 
 ## 🌐 Démo
 
-Voir la démo en ligne : [Kanap E-commerce](https://techie-sam.github.io/Projet4-Kanap-OC/)
+Voir la démo en ligne : [Kanap E-commerce](https://techie-sam.github.io/Projet4-Kanap-OC/index.html)
 
 ## 📝 Description
 
