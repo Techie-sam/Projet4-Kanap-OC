@@ -1,38 +1,77 @@
+# Kanap - E-commerce de Canapés 🛋️
 
-# Kanap
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-C'est le 5ième projet de chez OpenClassrooms (Parcours Dev Web).
+## 📝 Description
 
-## Scénario
+Kanap est une plateforme e-commerce spécialisée dans la vente de canapés en ligne. Ce projet fait partie du parcours Développeur Web d'OpenClassrooms et représente une application full-stack avec une interface dynamique.
 
-Vous êtes en poste dans une agence de développement web depuis quelques semaines maintenant. Après avoir réalisé avec succès l’intégration de quelques sites web (HTML/CSS), on vous confie une nouvelle mission.
+## 🎯 Objectifs du Projet
 
-Votre client est Kanap, une marque de canapés qui vend ses produits depuis sa boutique exclusivement. Aujourd’hui, celle-ci souhaiterait avoir une plateforme de e-commerce en plus de sa boutique physique pour vendre ses produits sur Internet.
+- Création d'une plateforme e-commerce responsive et dynamique
+- Intégration d'une API REST pour la gestion des produits
+- Implémentation d'un panier d'achat interactif
+- Gestion des formulaires et validation des données
+- Mise en place d'un plan de test d'acceptation
 
+## 🛠️ Technologies Utilisées
 
-##  Mission
-- Unifier les travaux déjà réalisés par l’équipe en intégrant dynamiquement les éléments de l’API dans les différentes pages web avec JavaScript. Le code du front-end et de l’API est disponible.
+### Frontend
+- JavaScript Vanilla
+- HTML5
+- CSS3
 
-- Mettre en place un plan de test d’acceptation.
-## Technologies
-*Utilisées* :
+### Backend
+- Node.js
+- Express.js
+- MongoDB
 
-✅ JavaScript
+## ✨ Fonctionnalités
 
-✅ Node.js (API).
+- Affichage dynamique des produits depuis l'API
+- Système de panier avec gestion des quantités
+- Formulaire de commande avec validation
+- Génération de numéro de commande unique
+- Interface responsive et intuitive
 
-*Interdites* :
+## 🚀 Installation
 
-🚫 Framework JavaScript.
+1. Cloner le repository
+```bash
+git clone [URL_du_repo]
+```
 
-## Compétences évaluées
-- Gérer des événements JavaScript.
-- Interagir avec un web service avec JavaScript.
-- Valider des données issues de sources externes.
-- Créer un plan de test pour une application.
-- Respecter [les spécifications fonctionnelles et techniques](https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Etapes+cles.pdf).
+2. Installer les dépendances (depuis le dossier back)
+```bash
+cd back
+npm install
+```
 
-## Infos Supp pour mener à bien le projet
-📌 [Cahier des charges](https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Specifications+fonctionnelles.pdf).
+3. Lancer le serveur
+```bash
+npm start
+```
 
-📌 [Spécifications fonctionnelles et techniques](https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Etapes+cles.pdf).
+Le serveur doit fonctionner sur `localhost` avec le port par défaut `3000`.
+
+## 📋 Compétences Démontrées
+
+- Intégration dynamique d'une API avec JavaScript
+- Gestion avancée des événements JavaScript
+- Validation et sécurisation des données
+- Planification et exécution de tests d'acceptation
+- Respect des spécifications techniques et fonctionnelles
+
+## 📚 Documentation
+
+- [Cahier des charges](https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Specifications+fonctionnelles.pdf)
+- [Spécifications techniques](https://course.oc-static.com/projects/DWJ_FR_P5/DW+P5+-+Etapes+cles.pdf)
+
+## 🤝 Contribution
+
+Les contributions, issues et feature requests sont les bienvenues !
+
+## 📝 Licence
+
+Ce projet est sous licence ISC.
