@@ -3,10 +3,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🌐 Démo
-
-Voir la démo en ligne : [Kanap E-commerce](https://techie-sam.github.io/Projet4-Kanap-OC/index.html)
-
 ## 📝 Description
 
 Kanap est une plateforme e-commerce spécialisée dans la vente de canapés en ligne. Ce projet fait partie du parcours Développeur Web d'OpenClassrooms et représente une application full-stack avec une interface dynamique.
